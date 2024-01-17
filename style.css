@@ -1,0 +1,279 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    color: antiquewhite;
+    background-color: rgba(22, 22, 23, .8);
+    ;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    line-height: 6px;
+    justify-content: center;
+
+}
+
+                                            /* box no 1 */
+
+
+
+.box-1 {
+    background-image: url('hero_endframe__dz973mndvu82_large-removebg-preview.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid rgb(255, 255, 255);
+    width: 1280px;
+    height: 700px;
+
+}
+
+.pak1 {
+    padding-top: 15px;
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin-top: 450px;
+    margin-left: 450px;
+
+}
+
+.pre {
+    margin-top: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+                                                /* box no2 */
+
+.box-2 {
+    background-image: url('iphone-15-pro_overview__f8jz7aagka2q_og.png');
+    background-position: center;
+    border: 1px solid black;
+    width: 1275px;
+    height: 700px;
+}
+
+.pak2 {
+    color: antiquewhite;
+    padding-top: 15px;
+    border: 2px solid black;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.h1 {
+    font-size: 50px;
+}
+
+.h5 {
+    font-size: 20px;
+}
+
+                                            /* box no 3 */
+
+.box-3 {
+    background-image: url('design__bokk6rh0vf7m_large.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid rgb(255, 255, 255);
+    width: 1275px;
+    height: 700px;
+}
+
+.pak3 {
+    color: rgb(0, 0, 0);
+    padding-top: 15px;
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 40px 100px;
+}
+
+                                        /* box no 4  */
+
+
+
+
+.box-4 {
+    margin-top: -40px;
+    background-image: url('Screenshot\ \(19\).png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid rgb(0, 0, 0);
+    width: 48%;
+    height: 700px;
+}
+
+.pak4 {
+    color: rgb(228, 223, 223);
+    padding-top: 15px;
+    border: 2px solid black;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 40px 100px;
+}
+
+.series {
+    color: rgb(189, 50, 31);
+    font-size: 1.5em;
+}
+
+                                            /* box no 5 */
+
+
+.box-5 {
+    position: relative;
+    left: 640px;
+    bottom: 655px;
+    margin-top: -40px;
+    background-image: url('Screenshot\ \(20\).png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid rgb(254, 251, 251);
+    width: 48%;
+    height: 700px;
+}
+
+.pak5 {
+    color: rgb(0, 0, 0);
+    padding-top: 15px;
+    border: 2px solid rgb(255, 255, 255);
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.ultra {
+    color: rgb(255, 106, 0);
+    font-size: 1.5em;
+}
+
+                                            /* box no 6 */
+
+.box-6 {
+    position: relative;
+    top: -655px;
+    background-image: url('blob.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    /* border: 1px solid rgb(0, 0, 0); */
+    width: 48%;
+    height: 700px
+}
+
+.pak6 {
+    color: rgb(0, 0, 0);
+    padding-top: 15px;
+    /* border: 2px solid rgb(255, 255, 255); */
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+                                                /* box no 7 */
+
+.box-7 {
+    position: relative;
+    bottom: 1354px;
+    left: 655px;
+    background-image: url('blob\ \(2\).jfif');
+    background-repeat: no-repeat;
+    background-position: center;
+    /* border: 1px solid rgb(0, 0, 0); */
+    width: 48%;
+    height: 700px
+}
+
+.pak7 {
+    color: rgb(0, 0, 0);
+    padding-top: 15px;
+    border: 2px solid rgb(255, 255, 255);
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+                                            /* box no 8 */
+
+.box-8 {
+    position: relative;
+    bottom: 1445px;
+    /* left: 655px; */
+    background-image: url('blob\ \(3\).jfif');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid rgb(255, 255, 255);
+    width: 48%;
+    height: 700px
+}
+
+.pak8 {
+
+    color: rgb(0, 0, 0);
+    padding-top: 15px;
+    /* border: 2px solid rgb(255, 255, 255); */
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+                                            /* box no 9 */
+
+.box-9 {
+    position: relative;
+    bottom: 2145px;
+    left: 655px;
+    background-image: url('download.jfif');
+    background-repeat: no-repeat;
+    background-position: center;
+    /* border: 1px solid rgb(0, 0, 0); */
+    width: 48%;
+    height: 700px;
+}
+
+.pak9 {
+    color: rgb(0, 0, 0);
+    padding-top: 15px;
+    /* border: 2px solid rgb(0, 0, 0); */
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+                                                /* box no 10 */
+
+.container {
+    /* border: 1px solid black; */
+    text-align: justify;
+    position: relative;
+    bottom: 2300px;
+    padding:30px;
+    color: rgb(166, 166, 134);
+    
+
+    
+}
+
+
+
+
+
