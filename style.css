@@ -7,7 +7,7 @@
 ul {
     color: antiquewhite;
     background-color: rgba(22, 22, 23, .8);
-    ;
+    
 }
 
 li {
@@ -15,6 +15,8 @@ li {
     padding: 20px;
     line-height: 6px;
     justify-content: center;
+    flex-wrap: wrap;
+    
 
 }
 
@@ -29,7 +31,7 @@ li {
     border: 1px solid rgb(255, 255, 255);
     width: 1280px;
     height: 700px;
-
+    flex-wrap: wrap;
 }
 
 .pak1 {
@@ -40,7 +42,7 @@ li {
     text-align: center;
     margin-top: 450px;
     margin-left: 450px;
-
+    flex-wrap: wrap;
 }
 
 .pre {
@@ -59,6 +61,7 @@ a {
     border: 1px solid black;
     width: 1275px;
     height: 700px;
+    flex-wrap: wrap;
 }
 
 .pak2 {
@@ -69,6 +72,7 @@ a {
     height: 150px;
     text-align: center;
     margin: 0 auto;
+    flex-wrap: wrap;
 
 }
 
@@ -89,6 +93,7 @@ a {
     border: 1px solid rgb(255, 255, 255);
     width: 1275px;
     height: 700px;
+    flex-wrap: wrap;
 }
 
 .pak3 {
@@ -98,6 +103,7 @@ a {
     width: 400px;
     height: 150px;
     text-align: center;
+    flex-wrap: wrap;
     margin: 40px 100px;
 }
 
@@ -114,6 +120,7 @@ a {
     border: 1px solid rgb(0, 0, 0);
     width: 48%;
     height: 700px;
+    flex-wrap: wrap;
 }
 
 .pak4 {
@@ -124,6 +131,7 @@ a {
     height: 150px;
     text-align: center;
     margin: 40px 100px;
+    flex-wrap: wrap;
 }
 
 .series {
@@ -145,6 +153,7 @@ a {
     border: 1px solid rgb(254, 251, 251);
     width: 48%;
     height: 700px;
+    flex-wrap: wrap;
 }
 
 .pak5 {
@@ -155,6 +164,7 @@ a {
     height: 150px;
     text-align: center;
     margin: 0 auto;
+    flex-wrap: wrap;
 }
 
 .ultra {
@@ -173,6 +183,7 @@ a {
     /* border: 1px solid rgb(0, 0, 0); */
     width: 48%;
     height: 700px
+    /* flex-wrap: wrap; */
 }
 
 .pak6 {
@@ -183,6 +194,7 @@ a {
     height: 150px;
     text-align: center;
     margin: 0 auto;
+    flex-wrap: wrap;
 }
 
                                                 /* box no 7 */
@@ -207,6 +219,7 @@ a {
     height: 150px;
     text-align: center;
     margin: 0 auto;
+    flex-wrap: wrap;
 }
 
 
@@ -222,6 +235,7 @@ a {
     border: 1px solid rgb(255, 255, 255);
     width: 48%;
     height: 700px
+    /* flex-wrap: wrap; */
 }
 
 .pak8 {
@@ -233,6 +247,7 @@ a {
     height: 150px;
     text-align: center;
     margin: 0 auto;
+    flex-wrap: wrap;
 }
 
                                             /* box no 9 */
@@ -246,6 +261,7 @@ a {
     background-position: center;
     /* border: 1px solid rgb(0, 0, 0); */
     width: 48%;
+    flex-wrap: wrap;
     height: 700px;
 }
 
@@ -256,6 +272,7 @@ a {
     width: 400px;
     height: 150px;
     text-align: center;
+    flex-wrap: wrap;
     margin: 0 auto;
 }
 
@@ -268,6 +285,7 @@ a {
     bottom: 2300px;
     padding:30px;
     color: rgb(166, 166, 134);
+    flex-wrap: wrap;
     
 
     
